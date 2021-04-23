@@ -1,0 +1,28 @@
+[0.196s] Invoking command in '/home/mark-ros2/robot_ws/build/turtlesim': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mark-ros2/robot_ws/install/myfirstpackage:/opt/ros/foxy /usr/bin/cmake --build /home/mark-ros2/robot_ws/build/turtlesim -- -j12 -l12
+[0.242s] [  1%] Built target turtlesim__cpp
+[0.243s] [ 11%] Built target turtlesim__rosidl_generator_c
+[0.263s] [ 38%] Built target turtlesim__rosidl_typesupport_introspection_cpp
+[0.263s] [ 41%] Built target turtlesim__rosidl_typesupport_c
+[0.263s] [ 41%] Built target turtlesim__rosidl_typesupport_cpp
+[0.264s] [ 51%] Built target turtlesim__rosidl_typesupport_introspection_c
+[0.267s] [ 61%] Built target turtlesim__rosidl_typesupport_fastrtps_cpp
+[0.292s] [ 71%] Built target turtlesim__rosidl_typesupport_fastrtps_c
+[0.308s] [ 71%] Built target turtlesim
+[0.318s] [35m[1mScanning dependencies of target draw_square[0m
+[0.328s] [ 72%] Built target turtlesim__py
+[0.339s] [ 74%] Built target mimic
+[0.341s] [ 76%] Built target turtle_teleop_key
+[0.348s] [ 77%] [32mBuilding CXX object CMakeFiles/draw_square.dir/tutorials/draw_square.cpp.o[0m
+[0.350s] [ 83%] Built target turtlesim_node
+[0.354s] [ 92%] Built target turtlesim__python
+[0.376s] [ 98%] Built target turtlesim__rosidl_typesupport_fastrtps_c__pyext
+[0.376s] [ 98%] Built target turtlesim__rosidl_typesupport_c__pyext
+[0.376s] [ 98%] Built target turtlesim__rosidl_typesupport_introspection_c__pyext
+[1.480s] [01m[K/home/mark-ros2/robot_ws/src/ros_tutorials/turtlesim/tutorials/draw_square.cpp:[m[K In function ‘[01m[Kvoid forward(rclcpp::Publisher<geometry_msgs::msg::Twist_<std::allocator<void> > >::SharedPtr)[m[K’:
+[1.480s] [01m[K/home/mark-ros2/robot_ws/src/ros_tutorials/turtlesim/tutorials/draw_square.cpp:99:5:[m[K [01;31m[Kerror: [m[K‘[01m[Kros[m[K’ has not been declared
+[1.481s]    99 |     [01;31m[Kros[m[K::Duration(0.1).sleep(); // sleep for half a second
+[1.481s]       |     [01;31m[K^~~[m[K
+[2.962s] make[2]: *** [CMakeFiles/draw_square.dir/build.make:63: CMakeFiles/draw_square.dir/tutorials/draw_square.cpp.o] Error 1
+[2.963s] make[1]: *** [CMakeFiles/Makefile2:158: CMakeFiles/draw_square.dir/all] Error 2
+[2.963s] make: *** [Makefile:141: all] Error 2
+[2.965s] Invoked command in '/home/mark-ros2/robot_ws/build/turtlesim' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mark-ros2/robot_ws/install/myfirstpackage:/opt/ros/foxy /usr/bin/cmake --build /home/mark-ros2/robot_ws/build/turtlesim -- -j12 -l12
