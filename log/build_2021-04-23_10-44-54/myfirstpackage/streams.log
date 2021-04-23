@@ -1,0 +1,22 @@
+[0.758s] Invoking command in '/home/mark-ros2/ROS2_tutorials/src/myfirstpackage': PYTHONPATH=/home/mark-ros2/ROS2_tutorials/install/myfirstpackage/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/myfirstpackage build --build-base /home/mark-ros2/ROS2_tutorials/build/myfirstpackage/build install --prefix /home/mark-ros2/ROS2_tutorials/install/myfirstpackage --record /home/mark-ros2/ROS2_tutorials/build/myfirstpackage/install.log --single-version-externally-managed
+[0.920s] running egg_info
+[0.921s] writing ../../build/myfirstpackage/myfirstpackage.egg-info/PKG-INFO
+[0.921s] writing dependency_links to ../../build/myfirstpackage/myfirstpackage.egg-info/dependency_links.txt
+[0.921s] writing entry points to ../../build/myfirstpackage/myfirstpackage.egg-info/entry_points.txt
+[0.921s] writing requirements to ../../build/myfirstpackage/myfirstpackage.egg-info/requires.txt
+[0.921s] writing top-level names to ../../build/myfirstpackage/myfirstpackage.egg-info/top_level.txt
+[0.951s] reading manifest file '../../build/myfirstpackage/myfirstpackage.egg-info/SOURCES.txt'
+[0.952s] writing manifest file '../../build/myfirstpackage/myfirstpackage.egg-info/SOURCES.txt'
+[0.953s] running build
+[0.953s] running build_py
+[0.953s] running install
+[0.954s] running install_lib
+[0.955s] running install_data
+[0.956s] running install_egg_info
+[0.958s] removing '/home/mark-ros2/ROS2_tutorials/install/myfirstpackage/lib/python3.8/site-packages/myfirstpackage-0.0.0-py3.8.egg-info' (and everything under it)
+[0.958s] Copying ../../build/myfirstpackage/myfirstpackage.egg-info to /home/mark-ros2/ROS2_tutorials/install/myfirstpackage/lib/python3.8/site-packages/myfirstpackage-0.0.0-py3.8.egg-info
+[0.959s] running install_scripts
+[0.976s] Installing myfirstnode script to /home/mark-ros2/ROS2_tutorials/install/myfirstpackage/lib/myfirstpackage
+[0.976s] Installing param_node script to /home/mark-ros2/ROS2_tutorials/install/myfirstpackage/lib/myfirstpackage
+[0.976s] writing list of installed files to '/home/mark-ros2/ROS2_tutorials/build/myfirstpackage/install.log'
+[1.016s] Invoked command in '/home/mark-ros2/ROS2_tutorials/src/myfirstpackage' returned '0': PYTHONPATH=/home/mark-ros2/ROS2_tutorials/install/myfirstpackage/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/myfirstpackage build --build-base /home/mark-ros2/ROS2_tutorials/build/myfirstpackage/build install --prefix /home/mark-ros2/ROS2_tutorials/install/myfirstpackage --record /home/mark-ros2/ROS2_tutorials/build/myfirstpackage/install.log --single-version-externally-managed

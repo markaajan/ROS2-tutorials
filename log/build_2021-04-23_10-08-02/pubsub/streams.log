@@ -1,0 +1,32 @@
+[0.602s] Invoking command in '/home/mark-ros2/ROS2_tutorials/src/pubsub': PYTHONPATH=/home/mark-ros2/ROS2_tutorials/install/pubsub/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/pubsub build --build-base /home/mark-ros2/ROS2_tutorials/build/pubsub/build install --prefix /home/mark-ros2/ROS2_tutorials/install/pubsub --record /home/mark-ros2/ROS2_tutorials/build/pubsub/install.log --single-version-externally-managed
+[0.812s] running egg_info
+[0.813s] creating ../../build/pubsub/pubsub.egg-info
+[0.813s] writing ../../build/pubsub/pubsub.egg-info/PKG-INFO
+[0.813s] writing dependency_links to ../../build/pubsub/pubsub.egg-info/dependency_links.txt
+[0.813s] writing entry points to ../../build/pubsub/pubsub.egg-info/entry_points.txt
+[0.813s] writing requirements to ../../build/pubsub/pubsub.egg-info/requires.txt
+[0.814s] writing top-level names to ../../build/pubsub/pubsub.egg-info/top_level.txt
+[0.815s] writing manifest file '../../build/pubsub/pubsub.egg-info/SOURCES.txt'
+[0.845s] reading manifest file '../../build/pubsub/pubsub.egg-info/SOURCES.txt'
+[0.846s] writing manifest file '../../build/pubsub/pubsub.egg-info/SOURCES.txt'
+[0.846s] running build
+[0.846s] running build_py
+[0.846s] creating /home/mark-ros2/ROS2_tutorials/build/pubsub/build
+[0.846s] creating /home/mark-ros2/ROS2_tutorials/build/pubsub/build/lib
+[0.846s] creating /home/mark-ros2/ROS2_tutorials/build/pubsub/build/lib/pubsub
+[0.847s] copying pubsub/__init__.py -> /home/mark-ros2/ROS2_tutorials/build/pubsub/build/lib/pubsub
+[0.847s] running install
+[0.847s] running install_lib
+[0.848s] creating /home/mark-ros2/ROS2_tutorials/install/pubsub/lib/python3.8/site-packages/pubsub
+[0.848s] copying /home/mark-ros2/ROS2_tutorials/build/pubsub/build/lib/pubsub/__init__.py -> /home/mark-ros2/ROS2_tutorials/install/pubsub/lib/python3.8/site-packages/pubsub
+[0.849s] byte-compiling /home/mark-ros2/ROS2_tutorials/install/pubsub/lib/python3.8/site-packages/pubsub/__init__.py to __init__.cpython-38.pyc
+[0.850s] running install_data
+[0.850s] copying resource/pubsub -> /home/mark-ros2/ROS2_tutorials/install/pubsub/share/ament_index/resource_index/packages
+[0.850s] copying package.xml -> /home/mark-ros2/ROS2_tutorials/install/pubsub/share/pubsub
+[0.851s] running install_egg_info
+[0.852s] Copying ../../build/pubsub/pubsub.egg-info to /home/mark-ros2/ROS2_tutorials/install/pubsub/lib/python3.8/site-packages/pubsub-0.0.0-py3.8.egg-info
+[0.853s] running install_scripts
+[0.869s] Installing publisher script to /home/mark-ros2/ROS2_tutorials/install/pubsub/lib/pubsub
+[0.870s] Installing subscriber script to /home/mark-ros2/ROS2_tutorials/install/pubsub/lib/pubsub
+[0.870s] writing list of installed files to '/home/mark-ros2/ROS2_tutorials/build/pubsub/install.log'
+[0.891s] Invoked command in '/home/mark-ros2/ROS2_tutorials/src/pubsub' returned '0': PYTHONPATH=/home/mark-ros2/ROS2_tutorials/install/pubsub/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/pubsub build --build-base /home/mark-ros2/ROS2_tutorials/build/pubsub/build install --prefix /home/mark-ros2/ROS2_tutorials/install/pubsub --record /home/mark-ros2/ROS2_tutorials/build/pubsub/install.log --single-version-externally-managed

@@ -1,0 +1,21 @@
+[0.771s] Invoking command in '/home/mark-ros2/ROS2_tutorials/src/hello_world': PYTHONPATH=/home/mark-ros2/ROS2_tutorials/install/hello_world/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/hello_world build --build-base /home/mark-ros2/ROS2_tutorials/build/hello_world/build install --prefix /home/mark-ros2/ROS2_tutorials/install/hello_world --record /home/mark-ros2/ROS2_tutorials/build/hello_world/install.log --single-version-externally-managed
+[0.942s] running egg_info
+[0.943s] writing ../../build/hello_world/hello_world.egg-info/PKG-INFO
+[0.943s] writing dependency_links to ../../build/hello_world/hello_world.egg-info/dependency_links.txt
+[0.943s] writing entry points to ../../build/hello_world/hello_world.egg-info/entry_points.txt
+[0.943s] writing requirements to ../../build/hello_world/hello_world.egg-info/requires.txt
+[0.943s] writing top-level names to ../../build/hello_world/hello_world.egg-info/top_level.txt
+[0.968s] reading manifest file '../../build/hello_world/hello_world.egg-info/SOURCES.txt'
+[0.968s] writing manifest file '../../build/hello_world/hello_world.egg-info/SOURCES.txt'
+[0.968s] running build
+[0.969s] running build_py
+[0.969s] running install
+[0.969s] running install_lib
+[0.970s] running install_data
+[0.970s] running install_egg_info
+[0.971s] removing '/home/mark-ros2/ROS2_tutorials/install/hello_world/lib/python3.8/site-packages/hello_world-0.0.0-py3.8.egg-info' (and everything under it)
+[0.972s] Copying ../../build/hello_world/hello_world.egg-info to /home/mark-ros2/ROS2_tutorials/install/hello_world/lib/python3.8/site-packages/hello_world-0.0.0-py3.8.egg-info
+[0.972s] running install_scripts
+[0.985s] Installing hello_world script to /home/mark-ros2/ROS2_tutorials/install/hello_world/lib/hello_world
+[0.985s] writing list of installed files to '/home/mark-ros2/ROS2_tutorials/build/hello_world/install.log'
+[1.007s] Invoked command in '/home/mark-ros2/ROS2_tutorials/src/hello_world' returned '0': PYTHONPATH=/home/mark-ros2/ROS2_tutorials/install/hello_world/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/hello_world build --build-base /home/mark-ros2/ROS2_tutorials/build/hello_world/build install --prefix /home/mark-ros2/ROS2_tutorials/install/hello_world --record /home/mark-ros2/ROS2_tutorials/build/hello_world/install.log --single-version-externally-managed

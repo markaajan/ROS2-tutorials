@@ -1,0 +1,26 @@
+[0.682s] Invoking command in '/home/mark-ros2/ROS2_tutorials/src/srv_examples': PYTHONPATH=/home/mark-ros2/ROS2_tutorials/install/srv_examples/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/srv_examples build --build-base /home/mark-ros2/ROS2_tutorials/build/srv_examples/build install --prefix /home/mark-ros2/ROS2_tutorials/install/srv_examples --record /home/mark-ros2/ROS2_tutorials/build/srv_examples/install.log --single-version-externally-managed
+[0.859s] running egg_info
+[0.860s] writing ../../build/srv_examples/srv_examples.egg-info/PKG-INFO
+[0.860s] writing dependency_links to ../../build/srv_examples/srv_examples.egg-info/dependency_links.txt
+[0.860s] writing entry points to ../../build/srv_examples/srv_examples.egg-info/entry_points.txt
+[0.860s] writing requirements to ../../build/srv_examples/srv_examples.egg-info/requires.txt
+[0.860s] writing top-level names to ../../build/srv_examples/srv_examples.egg-info/top_level.txt
+[0.884s] reading manifest file '../../build/srv_examples/srv_examples.egg-info/SOURCES.txt'
+[0.885s] writing manifest file '../../build/srv_examples/srv_examples.egg-info/SOURCES.txt'
+[0.885s] running build
+[0.885s] running build_py
+[0.886s] copying srv_examples/invert_gripper_service_server.py -> /home/mark-ros2/ROS2_tutorials/build/srv_examples/build/lib/srv_examples
+[0.886s] running install
+[0.887s] running install_lib
+[0.887s] copying /home/mark-ros2/ROS2_tutorials/build/srv_examples/build/lib/srv_examples/invert_gripper_service_server.py -> /home/mark-ros2/ROS2_tutorials/install/srv_examples/lib/python3.8/site-packages/srv_examples
+[0.888s] byte-compiling /home/mark-ros2/ROS2_tutorials/install/srv_examples/lib/python3.8/site-packages/srv_examples/invert_gripper_service_server.py to invert_gripper_service_server.cpython-38.pyc
+[0.889s] running install_data
+[0.890s] running install_egg_info
+[0.891s] removing '/home/mark-ros2/ROS2_tutorials/install/srv_examples/lib/python3.8/site-packages/srv_examples-0.0.0-py3.8.egg-info' (and everything under it)
+[0.891s] Copying ../../build/srv_examples/srv_examples.egg-info to /home/mark-ros2/ROS2_tutorials/install/srv_examples/lib/python3.8/site-packages/srv_examples-0.0.0-py3.8.egg-info
+[0.892s] running install_scripts
+[0.909s] Installing invert_gripper_service_server script to /home/mark-ros2/ROS2_tutorials/install/srv_examples/lib/srv_examples
+[0.909s] Installing open_gripper_service_server script to /home/mark-ros2/ROS2_tutorials/install/srv_examples/lib/srv_examples
+[0.910s] Installing turtlesim_geofence_reset_srv script to /home/mark-ros2/ROS2_tutorials/install/srv_examples/lib/srv_examples
+[0.910s] writing list of installed files to '/home/mark-ros2/ROS2_tutorials/build/srv_examples/install.log'
+[0.943s] Invoked command in '/home/mark-ros2/ROS2_tutorials/src/srv_examples' returned '0': PYTHONPATH=/home/mark-ros2/ROS2_tutorials/install/srv_examples/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/srv_examples build --build-base /home/mark-ros2/ROS2_tutorials/build/srv_examples/build install --prefix /home/mark-ros2/ROS2_tutorials/install/srv_examples --record /home/mark-ros2/ROS2_tutorials/build/srv_examples/install.log --single-version-externally-managed

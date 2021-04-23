@@ -1,0 +1,22 @@
+[0.579s] Invoking command in '/home/mark-ros2/ROS2_tutorials/src/pubsub': PYTHONPATH=/home/mark-ros2/ROS2_tutorials/install/pubsub/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/pubsub build --build-base /home/mark-ros2/ROS2_tutorials/build/pubsub/build install --prefix /home/mark-ros2/ROS2_tutorials/install/pubsub --record /home/mark-ros2/ROS2_tutorials/build/pubsub/install.log --single-version-externally-managed
+[0.764s] running egg_info
+[0.764s] writing ../../build/pubsub/pubsub.egg-info/PKG-INFO
+[0.764s] writing dependency_links to ../../build/pubsub/pubsub.egg-info/dependency_links.txt
+[0.765s] writing entry points to ../../build/pubsub/pubsub.egg-info/entry_points.txt
+[0.765s] writing requirements to ../../build/pubsub/pubsub.egg-info/requires.txt
+[0.765s] writing top-level names to ../../build/pubsub/pubsub.egg-info/top_level.txt
+[0.792s] reading manifest file '../../build/pubsub/pubsub.egg-info/SOURCES.txt'
+[0.793s] writing manifest file '../../build/pubsub/pubsub.egg-info/SOURCES.txt'
+[0.793s] running build
+[0.793s] running build_py
+[0.793s] running install
+[0.794s] running install_lib
+[0.795s] running install_data
+[0.796s] running install_egg_info
+[0.797s] removing '/home/mark-ros2/ROS2_tutorials/install/pubsub/lib/python3.8/site-packages/pubsub-0.0.0-py3.8.egg-info' (and everything under it)
+[0.797s] Copying ../../build/pubsub/pubsub.egg-info to /home/mark-ros2/ROS2_tutorials/install/pubsub/lib/python3.8/site-packages/pubsub-0.0.0-py3.8.egg-info
+[0.798s] running install_scripts
+[0.812s] Installing publisher script to /home/mark-ros2/ROS2_tutorials/install/pubsub/lib/pubsub
+[0.812s] Installing subscriber script to /home/mark-ros2/ROS2_tutorials/install/pubsub/lib/pubsub
+[0.813s] writing list of installed files to '/home/mark-ros2/ROS2_tutorials/build/pubsub/install.log'
+[0.843s] Invoked command in '/home/mark-ros2/ROS2_tutorials/src/pubsub' returned '0': PYTHONPATH=/home/mark-ros2/ROS2_tutorials/install/pubsub/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/pubsub build --build-base /home/mark-ros2/ROS2_tutorials/build/pubsub/build install --prefix /home/mark-ros2/ROS2_tutorials/install/pubsub --record /home/mark-ros2/ROS2_tutorials/build/pubsub/install.log --single-version-externally-managed
