@@ -1,0 +1,45 @@
+running egg_info
+creating ../build/rqt_joy/rqt_joy.egg-info
+writing ../build/rqt_joy/rqt_joy.egg-info/PKG-INFO
+writing dependency_links to ../build/rqt_joy/rqt_joy.egg-info/dependency_links.txt
+writing requirements to ../build/rqt_joy/rqt_joy.egg-info/requires.txt
+writing top-level names to ../build/rqt_joy/rqt_joy.egg-info/top_level.txt
+writing manifest file '../build/rqt_joy/rqt_joy.egg-info/SOURCES.txt'
+reading manifest file '../build/rqt_joy/rqt_joy.egg-info/SOURCES.txt'
+writing manifest file '../build/rqt_joy/rqt_joy.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/mark-ros2/ROS2_tutorials/src/build/rqt_joy/build
+creating /home/mark-ros2/ROS2_tutorials/src/build/rqt_joy/build/lib
+creating /home/mark-ros2/ROS2_tutorials/src/build/rqt_joy/build/lib/rqt_joy
+copying src/rqt_joy/__init__.py -> /home/mark-ros2/ROS2_tutorials/src/build/rqt_joy/build/lib/rqt_joy
+copying src/rqt_joy/joy.py -> /home/mark-ros2/ROS2_tutorials/src/build/rqt_joy/build/lib/rqt_joy
+running build_scripts
+creating /home/mark-ros2/ROS2_tutorials/src/build/rqt_joy/build/scripts-3.8
+copying and adjusting scripts/rqt_joy -> /home/mark-ros2/ROS2_tutorials/src/build/rqt_joy/build/scripts-3.8
+changing mode of /home/mark-ros2/ROS2_tutorials/src/build/rqt_joy/build/scripts-3.8/rqt_joy from 664 to 775
+running install
+running install_lib
+creating /home/mark-ros2/ROS2_tutorials/src/install/rqt_joy/lib/python3.8/site-packages/rqt_joy
+copying /home/mark-ros2/ROS2_tutorials/src/build/rqt_joy/build/lib/rqt_joy/__init__.py -> /home/mark-ros2/ROS2_tutorials/src/install/rqt_joy/lib/python3.8/site-packages/rqt_joy
+copying /home/mark-ros2/ROS2_tutorials/src/build/rqt_joy/build/lib/rqt_joy/joy.py -> /home/mark-ros2/ROS2_tutorials/src/install/rqt_joy/lib/python3.8/site-packages/rqt_joy
+byte-compiling /home/mark-ros2/ROS2_tutorials/src/install/rqt_joy/lib/python3.8/site-packages/rqt_joy/__init__.py to __init__.cpython-38.pyc
+byte-compiling /home/mark-ros2/ROS2_tutorials/src/install/rqt_joy/lib/python3.8/site-packages/rqt_joy/joy.py to joy.cpython-38.pyc
+running install_data
+creating /home/mark-ros2/ROS2_tutorials/src/install/rqt_joy/share/ament_index
+creating /home/mark-ros2/ROS2_tutorials/src/install/rqt_joy/share/ament_index/resource_index
+creating /home/mark-ros2/ROS2_tutorials/src/install/rqt_joy/share/ament_index/resource_index/packages
+copying resource/rqt_joy -> /home/mark-ros2/ROS2_tutorials/src/install/rqt_joy/share/ament_index/resource_index/packages
+creating /home/mark-ros2/ROS2_tutorials/src/install/rqt_joy/share/rqt_joy/resource
+copying resource/VirtualJoy.ui -> /home/mark-ros2/ROS2_tutorials/src/install/rqt_joy/share/rqt_joy/resource
+copying package.xml -> /home/mark-ros2/ROS2_tutorials/src/install/rqt_joy/share/rqt_joy
+copying plugin.xml -> /home/mark-ros2/ROS2_tutorials/src/install/rqt_joy/share/rqt_joy
+creating /home/mark-ros2/ROS2_tutorials/src/install/rqt_joy/lib/rqt_joy
+copying scripts/rqt_joy -> /home/mark-ros2/ROS2_tutorials/src/install/rqt_joy/lib/rqt_joy
+running install_egg_info
+Copying ../build/rqt_joy/rqt_joy.egg-info to /home/mark-ros2/ROS2_tutorials/src/install/rqt_joy/lib/python3.8/site-packages/rqt_joy-1.0.0-py3.8.egg-info
+running install_scripts
+creating /home/mark-ros2/ROS2_tutorials/src/install/rqt_joy/bin
+copying /home/mark-ros2/ROS2_tutorials/src/build/rqt_joy/build/scripts-3.8/rqt_joy -> /home/mark-ros2/ROS2_tutorials/src/install/rqt_joy/bin
+changing mode of /home/mark-ros2/ROS2_tutorials/src/install/rqt_joy/bin/rqt_joy to 775
+writing list of installed files to '/home/mark-ros2/ROS2_tutorials/src/build/rqt_joy/install.log'
