@@ -1,6 +1,0 @@
-/**:
-  ros__parameters:
-    background_b: 172
-    background_g: 147
-    background_r: 29
-    use_sim_time: false

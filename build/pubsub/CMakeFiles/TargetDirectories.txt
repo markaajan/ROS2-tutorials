@@ -1,9 +1,0 @@
-/home/mark-ros2/ROS2_tutorials/build/pubsub/CMakeFiles/install/strip.dir
-/home/mark-ros2/ROS2_tutorials/build/pubsub/CMakeFiles/install/local.dir
-/home/mark-ros2/ROS2_tutorials/build/pubsub/CMakeFiles/install.dir
-/home/mark-ros2/ROS2_tutorials/build/pubsub/CMakeFiles/list_install_components.dir
-/home/mark-ros2/ROS2_tutorials/build/pubsub/CMakeFiles/rebuild_cache.dir
-/home/mark-ros2/ROS2_tutorials/build/pubsub/CMakeFiles/edit_cache.dir
-/home/mark-ros2/ROS2_tutorials/build/pubsub/CMakeFiles/test.dir
-/home/mark-ros2/ROS2_tutorials/build/pubsub/CMakeFiles/pubsub_uninstall.dir
-/home/mark-ros2/ROS2_tutorials/build/pubsub/CMakeFiles/uninstall.dir
