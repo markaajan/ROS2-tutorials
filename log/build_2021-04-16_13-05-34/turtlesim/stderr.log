@@ -1,4 +1,0 @@
-make[2]: *** No rule to make target '/home/mark-ros2/robot_ws/src/ros_tutorials/turtlesim/tutorials/draw_square.cpp', needed by 'CMakeFiles/draw_square.dir/tutorials/draw_square.cpp.o'.  Stop.
-make[1]: *** [CMakeFiles/Makefile2:158: CMakeFiles/draw_square.dir/all] Error 2
-make[1]: *** Waiting for unfinished jobs....
-make: *** [Makefile:141: all] Error 2

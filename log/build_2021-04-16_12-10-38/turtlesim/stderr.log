@@ -1,7 +1,0 @@
-[01m[K/home/mark-ros2/robot_ws/src/ros_tutorials/turtlesim/tutorials/draw_square.cpp:[m[K In function ‘[01m[Kvoid forward(rclcpp::Publisher<geometry_msgs::msg::Twist_<std::allocator<void> > >::SharedPtr)[m[K’:
-[01m[K/home/mark-ros2/robot_ws/src/ros_tutorials/turtlesim/tutorials/draw_square.cpp:99:5:[m[K [01;31m[Kerror: [m[K‘[01m[Kros[m[K’ has not been declared
-   99 |     [01;31m[Kros[m[K::Duration(0.1).sleep(); // sleep for half a second
-      |     [01;31m[K^~~[m[K
-make[2]: *** [CMakeFiles/draw_square.dir/build.make:63: CMakeFiles/draw_square.dir/tutorials/draw_square.cpp.o] Error 1
-make[1]: *** [CMakeFiles/Makefile2:158: CMakeFiles/draw_square.dir/all] Error 2
-make: *** [Makefile:141: all] Error 2

@@ -1,5 +1,0 @@
-  File "/home/mark-ros2/ROS2_tutorials/install/srv_examples/lib/python3.8/site-packages/srv_examples/close_gripper_service_server.py", line 9
-    SetBool object1
-            ^
-SyntaxError: invalid syntax
-

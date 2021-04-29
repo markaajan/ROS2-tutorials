@@ -1,5 +1,0 @@
-  File "/home/mark-ros2/ROS2_tutorials/install/srv_examples/lib/python3.8/site-packages/srv_examples/close_gripper_service_server.py", line 42
-    minimal_client.send_request(req.data = True)
-                                ^
-SyntaxError: expression cannot contain assignment, perhaps you meant "=="?
-
