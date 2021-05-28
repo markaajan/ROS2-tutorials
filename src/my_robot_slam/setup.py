@@ -1,8 +1,6 @@
-import os
-from glob import glob
 from setuptools import setup
 
-package_name = 'myfirstpackage'
+package_name = 'my_robot_slam'
 
 setup(
     name=package_name,
@@ -12,21 +10,16 @@ setup(
         ('share/ament_index/resource_index/packages',
             ['resource/' + package_name]),
         ('share/' + package_name, ['package.xml']),
-                (os.path.join('share', package_name), glob('launch/*.launch.py')),
-                (os.path.join('share', package_name), glob('config/*.yaml')),   
     ],
     install_requires=['setuptools'],
     zip_safe=True,
-    maintainer='mark-ros2',
-    maintainer_email='mark-ros2@todo.todo',
+    maintainer='markros2',
+    maintainer_email='markros2@todo.todo',
     description='TODO: Package description',
     license='TODO: License declaration',
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
-            'myfirstnode = myfirstpackage.myfirstnode:main',
-            'param_node = myfirstpackage.param_node:main',
-            'tf_listener = myfirstpackage.tf_listener:main',
         ],
     },
 )

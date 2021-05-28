@@ -10,5 +10,33 @@
 [submodule "src/joint_state_publisher"]
 	path = src/joint_state_publisher
 	url = https://github.com/ros/joint_state_publisher
+	branch = ros2
+[submodule "src/usb_cam"]
+	path = src/usb_cam
+	url = https://github.com/ros-drivers/usb_cam.git
+[submodule "src/navigation_msgs"]
+	path = src/navigation_msgs
+	url = https://github.com/ros-planning/navigation_msgs.git
+[submodule "src/image_pipeline"]
+	path = src/image_pipeline
+	url = https://github.com/ros-perception/image_pipeline
+	branch = ros2
+[submodule "src/v4l2_camera"]
+	path = src/v4l2_camera
+	url = https://gitlab.com/boldhearts/ros2_v4l2_camera.git
 	branch = foxy
-
+[submodule "src/ros2_usb_camera"]
+	path = src/ros2_usb_camera
+	url = https://github.com/klintan/ros2_usb_camera
+[submodule "src/apriltag"]
+	path = src/apriltag
+	url = https://github.com/AprilRobotics/apriltag
+[submodule "src/apriltag_ros"]
+	path = src/apriltag_ros
+	url = https://github.com/christianrauch/apriltag_ros
+[submodule "src/apriltag_msgs"]
+	path = src/apriltag_msgs
+	url = https://github.com/christianrauch/apriltag_msgs
+[submodule "src/slam_toolbox"]
+	path = src/slam_toolbox
+	url = https://github.com/SteveMacenski/slam_toolbox
